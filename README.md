@@ -1,3 +1,4 @@
 # Lab 6 - Starter
 
-[GitHub Pages](https://jonathanyin.github.io/cse110-lab6)
+Jonathan Yin
+[GitHub Pages](https://jonathanyin.github.io/CSE110-Lab6)
